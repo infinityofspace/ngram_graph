@@ -1,2 +1,3 @@
-dgl
-torch
+dgl>=1.1.3
+torch>=2.1.2
+setuptools>=69.0.2
